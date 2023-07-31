@@ -1,2 +1,2 @@
 # repo_exemplo
-Repositorio Exemplo
+Repositório Exemplo para ser usado nas disciplinas
